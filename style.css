@@ -1,0 +1,30 @@
+p.info {
+    padding: 20px;
+    width: 320px;
+    height: 200px;
+    text-align: justify;
+    font-family: arial;
+
+}
+
+ul {
+    font-family: arial;
+    font-weight: bold;
+}
+
+
+.title {
+    color: red;
+    font-family: serif;
+    font-size: 30px;
+}
+
+#main_title {
+    color: red;
+    font-family: serif;
+    font-size: 50px
+}
+
+a {
+    font-family: times;
+}

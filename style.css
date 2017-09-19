@@ -1,13 +1,13 @@
 p.info {
     padding: 20px;
-    width: 320px;
+    width: 400px;
     height: 200px;
     text-align: justify;
     font-family: arial;
 
 }
 
-ul {
+#important_list {
     font-family: arial;
     font-weight: bold;
 }
